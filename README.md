@@ -5,7 +5,7 @@ Uncover hidden threats lurking within malware functions by analyzing sequences o
 
 FunctionFlow-MALAPI-Sequencer dives deep into malware behavior at the function level, revealing critical insights that traditional static analysis may miss.
 
-**Here's how it works:**
+**Here's how it works:** 
 
 Feed it dynamic execution data: Provide FunTrack output or similar dynamic execution traces as input.
 Extract and sequence MALAPIs: The tool carefully analyzes function calls, identifying malicious API calls (MALAPIs) and sequencing them within each function.
