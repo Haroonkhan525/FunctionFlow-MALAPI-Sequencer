@@ -7,7 +7,7 @@ FunctionFlow-MALAPI-Sequencer dives deep into malware behavior at the function l
 
 **Here's how it works:** 
 
-Feed it dynamic execution data: Provide FunTrack output or similar dynamic execution traces as input.
+Feed it dynamic execution data: Provide binary execution flow output or similar dynamic execution traces as input.
 Extract and sequence MALAPIs: The tool carefully analyzes function calls, identifying malicious API calls (MALAPIs) and sequencing them within each function.
 Deliver actionable insights: View the extracted sequences in a clear format, like this:
 sub_7FF7173B2484::kernel32_LoadLibraryExW,kernel32_GetProcAddress
