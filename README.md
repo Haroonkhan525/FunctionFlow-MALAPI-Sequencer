@@ -1,5 +1,5 @@
 # FunctionFlow-MALAPI-Sequencer
-## FunctionFlow-MALAPI-Sequencer: Unmask Malicious Intent from Dynamic Execution Flow
+## FunctionFlow-MALAPI-Sequencer: Unmask Malicious Intent via Dynamic Execution Flow
 
 Uncover hidden threats lurking within malware functions by analyzing sequences of malicious API calls extracted from dynamic execution traces.
 
